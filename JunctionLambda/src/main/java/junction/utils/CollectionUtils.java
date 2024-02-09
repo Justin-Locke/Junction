@@ -2,7 +2,8 @@ package junction.utils;
 
 import java.util.*;
 
-import static com.nashss.se.tale.utils.NullUtils.ifNotNull;
+import static junction.utils.NullUtils.ifNotNull;
+
 
 /**
  * Various helpful utilities for converting collections.
