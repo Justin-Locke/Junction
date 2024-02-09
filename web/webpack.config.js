@@ -23,11 +23,6 @@ module.exports = {
     usedExports: true
   },
   entry: {
-    viewCities: path.resolve(__dirname, 'src', 'pages', 'viewCities.js'),
-    viewCity: path.resolve(__dirname, 'src', 'pages', 'viewCity.js'),
-    viewActivity: path.resolve(__dirname, 'src', 'pages', 'viewActivity.js'),
-    personalActivities: path.resolve(__dirname, 'src', 'pages', 'personalActivities.js'),
-    personalComments: path.resolve(__dirname, 'src', 'pages', 'personalComments.js'),
     home: path.resolve(__dirname, 'src', 'pages', 'home.js'),
   },
   output: {
